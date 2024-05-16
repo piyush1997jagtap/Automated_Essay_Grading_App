@@ -1,0 +1,15 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary/backup files
+~$*
+
+
+
+# Ignore large model weights, if not included
+model_weights/
+
+
