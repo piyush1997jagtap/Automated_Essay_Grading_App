@@ -1,5 +1,5 @@
-# Automated Essay Scoring
-> A Deep Learning model that predicts the score of a given input essay. 
+# Automated Essay Grading App
+> A model that predicts the score of a given input essay. 
 
 The dataset is from Kaggle ASAP competition which was provided by The Hewlett Foundation.
 
